@@ -38,7 +38,7 @@ This section focuses on the fundamental concepts of machine learning and optimiz
 In this assignment, more advanced models based on neural networks and deep learning were implemented:
 * **MLP Architecture Design:** Construction of multilayer neural networks.
 * **Data Preprocessing:** Preparation, normalization, and reshaping of data (including MNIST).
-* **Weight Initialization and Optimizers:** Investigation of the impact of different initializers (e.g., Glorot/Random) and loss functions.
+* **Weight Initialization and Optimizers:** Investigation of the impact of different initializers (e.g.Random) and loss functions.
 * **Prediction Analysis:** Plotting training curves and evaluating results on test data.
 
 ---
