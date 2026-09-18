@@ -15,7 +15,7 @@ This repository contains the complete set of assignments and the final project f
 ## 📌 Table of Contents
 
 - [Assignment 1: Regression, Perceptron, and Optimization](#-assignment-1-regression-perceptron-and-optimization)
-- [Assignment 2: Deep Neural Networks](#-assignment-2-deep-neural-networks)
+- [Assignment 2: Deep Neural Networks](#-assignment-2-neural-networks)
 - [Assignment 3: Fuzzy Logic Systems](#-assignment-3-fuzzy-logic-systems)
 - [Final Project: Bank Customer Churn Prediction](#-final-project-bank-customer-churn-prediction)
 - [How to Run](#-how-to-run)
