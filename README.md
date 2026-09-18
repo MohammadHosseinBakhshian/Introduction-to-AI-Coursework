@@ -8,7 +8,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
-This repository contains the complete set of assignments and the final project for the **Introduction to Artificial Intelligence** course. All implementations are provided as Jupyter Notebooks, along with a comprehensive report and the final project presentation (PowerPoint).
+This repository contains the complete set of assignments and the final project for the **Introduction to Artificial Intelligence** course. All implementations are provided as Jupyter Notebooks.
 
 ---
 
