@@ -67,7 +67,7 @@ The core capstone project focuses on predicting customer churn in the banking se
 ### 📄 Deliverables:
 * **Project Code (`Project_Notebook.ipynb`):** Complete, fully annotated Jupyter Notebook tracking the end-to-end Machine Learning pipeline.
 * **Comprehensive Report (`Report.pdf`):** Formal theoretical write-up detailing problem formulation, experimental setup, model architectures, comparative results, and final conclusions.
-* **Presentation Slides (`Presentation.pptx`):** Structured slide deck prepared for oral defense and project demonstration.
+* **Presentation Slides :** Structured slide deck prepared for oral defense and project demonstration.
 
 ---
 
